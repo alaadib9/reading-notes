@@ -28,9 +28,9 @@
 ### a table of contents
 | Read Number   |      Title      | 
 |----------|:-------------:|
-| Read 01 |   SMACSS and Responsive Web Design | 
-| Read 02 |    centered   | 
-| Read 03 | right-aligned | 
+| Read 01 |[SMACSS and Responsive Web Design](https://github.com/alaadib9/reading-notes/read01) | 
+| Read 02 |       | 
+| Read 03 |  | 
 
 
 
