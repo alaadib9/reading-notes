@@ -29,7 +29,7 @@
 | Read Number   |      Title      | 
 |----------|-------------|
 | Read 01 |[SMACSS and Responsive Web Design](https://alaadib9.github.io/reading-notes/read01)) | 
-| Read 02 |       | 
+| Read 02 |[PAIR PROGRAMMING]    | 
 | Read 03 |  | 
 
 
