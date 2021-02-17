@@ -32,6 +32,11 @@
 | Read 02 |[PAIR PROGRAMMING](https://github.com/alaadib9/reading-notes/read02)| 
 | Read 03 | https://alaadib9.github.io/reading-notes/read3 | 
 | Read 04 |[CSS GRID](https://alaadib9.github.io/reading-notes/read4) | 
+| Read 05 |[HEROKU]() | 
+| Read 06 |[]() |
+| Read 07 |[]() | 
+| Read 08 |[]() |  
+| Read 09 |[]() | 
 
 
 
