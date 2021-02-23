@@ -35,8 +35,8 @@
 | Read 05 |[HEROKU](https://alaadib9.github.io/reading-notes/read5) | 
 | Read 06 |[NODE.JS](https://alaadib9.github.io/reading-notes/read6) |
 | Read 07 |[ APIs continued](https://alaadib9.github.io/reading-notes/read7) | 
-| Read 08 |[]() |  
-| Read 09 |[]() | 
+| Read 08 |[SQL](https://alaadib9.github.io/reading-notes/read8) |  
+| Read 09 |[Refactoring](https://alaadib9.github.io/reading-notes/read9) | 
 
 
 
